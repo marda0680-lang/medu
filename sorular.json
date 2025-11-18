@@ -25,7 +25,7 @@
   {
     "id": "e2_svt",
     "categoryId": "ecg",
-    "imageUrl": "f",
+    "imageUrl": "https://raw.githubusercontent.com/marda0680-lang/medu/refs/heads/main/skin/candidiasis-mouth-1.jpeg",
     "tani": "Supraventriküler Taşikardi (SVT)",
     "aciklama": "Dar QRS kompleksli, düzenli ve hızlı (<150 atım/dk) ritim. P dalgası T dalgası içinde gizlenmiş olabilir. Vagal manevralara veya Adenozin'e yanıt verebilir."
   },
