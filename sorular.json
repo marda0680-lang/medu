@@ -1,0 +1,49 @@
+[
+  // --- RADYOLOJİ (X-RAY) ÖRNEKLERİ ---
+  {
+    "id": "x1_pneumothorax",
+    "categoryId": "xray",
+    "imageUrl": "f",
+    "tani": "Tansiyon Pnömotoraks",
+    "aciklama": "Sağ hemitoraks tamamen kollabe olmuş akciğer, derin sulkus işareti ve mediasten sola itilmiş. Bu durum acil iğne dekompresyonu gerektirir."
+  },
+  {
+    "id": "x2_chf",
+    "categoryId": "xray",
+    "imageUrl": "f",
+    "tani": "Konjestif Kalp Yetmezliği",
+    "aciklama": "Kardiyomegali, üst loblarda damar belirginleşmesi, perihiler bulanıklık (yarasa kanadı paterni) ve plevral efüzyon izlenmektedir. Akciğer ödemi mevcuttur."
+  },
+  
+  // --- ELEKTROKARDİYOGRAFİ (EKG) ÖRNEKLERİ ---
+  {
+    "id": "e1_vfib",
+    "categoryId": "ecg",
+    "imageUrl": "f",
+    "tani": "Ventriküler Fibrilasyon (VF)",
+    "aciklama": "Hızlı, düzensiz ve kaotik ventrikül ritmi. P dalgaları izlenmez, QRS kompleksi seçilemez. Nabızsız arrest durumudur, acil defibrilasyon gerektirir."
+  },
+  {
+    "id": "e2_svt",
+    "categoryId": "ecg",
+    "imageUrl": "f",
+    "tani": "Supraventriküler Taşikardi (SVT)",
+    "aciklama": "Dar QRS kompleksli, düzenli ve hızlı (<150 atım/dk) ritim. P dalgası T dalgası içinde gizlenmiş olabilir. Vagal manevralara veya Adenozin'e yanıt verebilir."
+  },
+
+  // --- DERMATOLOJİ ÖRNEKLERİ ---
+  {
+    "id": "d1_psoriasis",
+    "categoryId": "derma",
+    "imageUrl": "f",
+    "tani": "Plak Tipi Sedef Hastalığı (Psoriasis)",
+    "aciklama": "Tipik olarak ekstansör yüzeylerde (diz, dirsek) yerleşen, keskin sınırlı, eritemli (kırmızı), kalın, gümüş rengi skuamlarla (pullarla) kaplı plaklar mevcuttur. Kaşıntı eşlik edebilir."
+  },
+  {
+    "id": "d2_impetigo",
+    "categoryId": "derma",
+    "imageUrl": "f",
+    "tani": "İmpetigo (Büllöz Olmayan)",
+    "aciklama": "Sıklıkla yüz çevresinde ve burun altında görülen, bal renginde kurutlanma ile karakterize yüzeysel bakteriyel enfeksiyon. Genellikle S. Aureus veya A grubu streptokoklar neden olur."
+  }
+]
