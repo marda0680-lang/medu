@@ -1,5 +1,5 @@
 [
-  // --- RADYOLOJİ (X-RAY) ÖRNEKLERİ ---
+
   {
     "id": "x1_pneumothorax",
     "categoryId": "xray",
@@ -15,7 +15,6 @@
     "aciklama": "Kardiyomegali, üst loblarda damar belirginleşmesi, perihiler bulanıklık (yarasa kanadı paterni) ve plevral efüzyon izlenmektedir. Akciğer ödemi mevcuttur."
   },
   
-  // --- ELEKTROKARDİYOGRAFİ (EKG) ÖRNEKLERİ ---
   {
     "id": "e1_vfib",
     "categoryId": "ecg",
@@ -31,7 +30,6 @@
     "aciklama": "Dar QRS kompleksli, düzenli ve hızlı (<150 atım/dk) ritim. P dalgası T dalgası içinde gizlenmiş olabilir. Vagal manevralara veya Adenozin'e yanıt verebilir."
   },
 
-  // --- DERMATOLOJİ ÖRNEKLERİ ---
   {
     "id": "d1_psoriasis",
     "categoryId": "derma",
